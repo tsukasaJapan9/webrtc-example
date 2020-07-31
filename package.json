@@ -1,0 +1,27 @@
+{
+  "name": "robot-control-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "blynk-library": "^0.5.4",
+    "keypress": "^0.2.1",
+    "mqtt": "^4.1.0",
+    "node-fetch": "^2.6.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tsukasaJapan9/robot-control-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsukasaJapan9/robot-control-server/issues"
+  },
+  "homepage": "https://github.com/tsukasaJapan9/robot-control-server#readme"
+}
