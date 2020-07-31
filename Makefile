@@ -3,13 +3,13 @@ run:
 	nodemon start
 
 open:
-	heroku open -a robot-control-server
+	heroku open -a webrtc-simple-app 
 
 log:
-	heroku logs -a robot-control-server -t
+	heroku logs -a webrtc-simple-app -t
 
 restart:
-	heroku restart -a robot-control-server
+	heroku restart -a webrtc-simple-app
 
 dyno:
-	heroku ps -a robot-control-server
+	heroku ps -a webrtc-simple-app
